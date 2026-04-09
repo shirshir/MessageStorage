@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.5.0 - 2026-04-09
+
+### Improvement
+
+- Added support for Laravel 13 (by @JurianArie)
+
 ## 1.4.0 - 2025-12-09
 
 ### Improvement
